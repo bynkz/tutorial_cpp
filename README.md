@@ -1,1 +1,1 @@
-Following a free c++ tutorial from codeacademy.com
+Following a free c++ tutorial from https://www.learncpp.com
